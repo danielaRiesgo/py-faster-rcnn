@@ -73,6 +73,10 @@ If you find Faster R-CNN useful in your research, please consider citing:
 
 ### Installation (sufficient for the demo)
 
+**Note:** If you don't have GPU, you can run the demo just using your CPU and [this](https://hub.docker.com/r/danielariesgo/py-faster-rcnn/) Docker image.
+In this case, you should only [install Docker](https://docs.docker.com/engine/installation/) and follow the instructions in the docker image's readme.
+
+
 1. Clone the Faster R-CNN repository
   ```Shell
   # Make sure to clone with --recursive
